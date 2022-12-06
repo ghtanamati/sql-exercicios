@@ -1,1 +1,1 @@
-# sql-exercicios
+# Exercícios SQL - TI Academy
